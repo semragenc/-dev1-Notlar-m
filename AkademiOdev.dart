@@ -10,4 +10,20 @@ void main() {
   } else {
     print("Birden fazla mesajınız var");
   }
+
+//YA DA İF ELSE GİBİ AMA DAHA BASİT VE DAHA SADE;
+
+  switch (mesajSayisi) {
+    case 0:
+      print("sıfır mesaj");
+      break;
+    case 1:
+      print("bir mesaj");
+      break;
+    case 2:
+      print("iki mesaj");
+      break;
+    default:
+      print("çok mesaj");
+  }
 }
