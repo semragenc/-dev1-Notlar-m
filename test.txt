@@ -1,1 +1,23 @@
 test test
+// var mesajSayisi = 6;
+/
+  // if(mesajSayisi == 0) {
+  //  print("Yeni mesajınız yok...");
+  //} else if (mesajSayisi == 1) {
+  // print("Bir yeni mesajınız var");
+  // } else {
+  //  print("Birden fazla mesajınız var");
+  // }
+//if else gibi ama daha basit daha sade :D
+  //switch (mesajSayisi) {
+  // case 0:
+  //   print("sıfır mesaj");
+  //   break;
+  // case 1:
+  //  print("bir mesaj");
+  //  break;
+  //case 2:
+  //  print("iki mesaj");
+  //  break;
+  //default:
+  //  print("çok mesaj");
