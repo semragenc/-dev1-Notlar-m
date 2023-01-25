@@ -26,4 +26,12 @@ void main() {
     default:
       print("çok mesaj");
   }
+
+  print(mesajSayisi > 0
+      ? "Yeni mesajınız var"
+      : "Yeni mesajınız yok"); //bu expression, dallanma değil imiş
+
+  print("$mesajSayisi adet okunmamış mesajınız var");
 }
+
+//bitti.
